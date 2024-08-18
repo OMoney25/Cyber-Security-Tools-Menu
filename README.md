@@ -1,5 +1,5 @@
-This is a cyber security tools menu I built in Programming II with Professor Ahkthar Lodgher
-Program has various cyber based abilities which I list below
+This is a cyber security tools menu I built in Programming II with Professor Ahkthar Lodgher.
+Program has various cyber based abilities which I list below:) Enjoy!
 
 CAPABILITIES
 
